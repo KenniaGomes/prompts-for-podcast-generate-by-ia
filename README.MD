@@ -62,45 +62,36 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de benefícios sociais de transferência de renda, o ebook é do nicho de bancário e o subnicho é de caixa economica federal, o título deve ser épico e curto, e tenha uma temática de nordeste brasileiro, me liste 5 variações de títulos                                                      |
-| conteúdo | Crie um texto em formato para ebook que terá o seguinte titulo "Sertão em Ascensão: Benefícios Sociais que Mudam Vidas", o foco do conteúdo é demonstrar como os beneficios sociais de transferencia de renda são importantes para inclusão bancária e diminuição da desigualdade social {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de pessoas em contextos reais , sempre deixe um título sugestivo por tópico |
+|  título  | Você é um roteirista de podcast, e vamos criar um podcast de finanças domésticas, focado em organização financeira familiar e eu gostaria de uma ajuda sua para criar 5 sugestões de nomes criativos para um podcast de finanças domesticas feito por crianças, e que tenha algum trocadilho infantil no nome O podcast vai falar sobre dicas e novidades sobre o mundo de finanças domésticas e o que está acontecendo no mercado 
+{REGRAS}
+- O nome deve ser enxuto, um nome e um subtítulo
+- O nome tenha algum trocadilho infantil  
+- O nome deve conter alguma palavra forte que remeta a controle financeiro                                                     |
+| roteiro | Você é um roteirista de podcast, e vamos criar um  roteiro de um podcast de finanças domésticas, focado em organização financeira familiar cujo o nome é "O Manual da Moedinha Nº 1" "Subtítulo: Os segredos do Tio Patinhas para controlar suas finanças." e tem foco em organização financeira familiar ,  com o público alvo de iniciantes em orçamento doméstico o formato do roteiro deve ser
+[INTRODUÇÃO]
+[CURIOSIDADE 1]
+[CURIOSIDADE 2]
+[FINALIZAÇÃO]
+
+{REGRAS}
+
+- no bloco [INTRODUÇÃO] substitua por uma introdução iguais as introduções dos desenhos do Tio Patinhas, como se fossem escritos pelo Tio Patinhas 
+- no bloco [CURIOSIDADE 1] substitua por uma curiosidade do Tio Patinhas 
+- no bloco [CURIOSIDADE 2] sobre uma ferramenta para organização financeira familiar
+- no bloco [FINALIZAÇÃO] substitua por uma despedida cool com o final 'Eu sou Daya e esse foi o podcast dessa semana' 
+- use termos de fácil explicação
+- O podcast vai ser apresentado somente por uma pessoa, chamada Daya 
+- O podcast deve ser curto
+
+{REGRAS NEGATIVAS}
+
+- Não use muitos termos técnicos
+- Não ultrapasse 5 minutos de duração |
 
 
 Bing：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | Crie uma imagem do sertão do nordeste brasileiro e uma agencia da caixa economica federal prestando o atendimento a população para pagamento de beneficios sociais de transferencia de renda |
-## 👨‍💻 Expert
+|Personagem | crie um personagem **Descrição do Personagem da Capa do Podcast: "O Manual da Moedinha Nº 1"**    **Nome do Personagem:** *Daya Patinhas*    **Descrição Visual:**   Daya é uma jovem e animada versão feminina inspirada no estilo de Patópolis, com um toque moderno. Ela é uma pata antropomórfica, com penas brancas e bochechas coradas, que exalam carisma e energia positiva.    **Trajes e Acessórios:**   - **Chapéu de explorador financeiro:** Um chapéu semelhante ao do Tio Patinha|
 
-<p>
-    <img 
-      align=left 
-      margin=10 
-      width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
-    />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
-    &nbsp&nbsp&nbsp
-    <a 
-        href="https://github.com/felipeAguiarCode">
-        GitHub
-    </a>
-    &nbsp;|&nbsp;
-    <a 
-        href="www.linkedin.com/in/felipe-exe">
-        LinkedIn
-    </a>
-    &nbsp;|&nbsp;
-    <a 
-        href="https://www.instagram.com/felipeaguiar.exe/">
-        Instagram
-    </a>
-    &nbsp;|&nbsp;</p>
-</p>
-<br/><br/>
-<p>
-
----
-
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)

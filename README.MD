@@ -76,3 +76,6 @@ Bing：
 - Conteúdo gerado via ChatGPT
 - Imagens geradas via Bing
 - Audio editado via Capcut
+
+## 🚀 Resultados
+Segue o resultado do projeto: [PROJETO IA GENERATIVA E-BOOK.pdf](https://github.com/user-attachments/files/18353694/PROJETO.IA.GENERATIVA.E-BOOK.pdf)

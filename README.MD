@@ -78,4 +78,4 @@ Bing：
 - Audio editado via Capcut
 
 ## 🚀 Resultados
-Segue o resultado do projeto: [PROJETO IA GENERATIVA E-BOOK.pdf](https://github.com/user-attachments/files/18353694/PROJETO.IA.GENERATIVA.E-BOOK.pdf)
+Segue o resultado do projeto: [Criando um Podcast com IAs Generativas](https://github.com/Dayanneportugal/prompts-for-podcast-generate-by-ia/blob/main/PODCAST%20O%20Manual%20da%20Moedinha%20N%C2%BA%201.mp4)

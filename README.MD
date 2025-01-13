@@ -67,8 +67,7 @@ ChatGPT：
 - O nome deve ser enxuto, um nome e um subtítulo
 - O nome tenha algum trocadilho infantil  
 - O nome deve conter alguma palavra forte que remeta a controle financeiro                                                     |
-| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| roteiro | Você é um roteirista de podcast, e vamos criar um  roteiro de um podcast de finanças domésticas, focado em organização financeira familiar cujo o nome é "O Manual da Moedinha Nº 1" "Subtítulo: Os segredos do Tio Patinhas para controlar suas finanças." e tem foco em organização financeira familiar ,  com o público alvo de iniciantes em orçamento doméstico o formato do roteiro deve ser
+|  roteiro  | Você é um roteirista de podcast, e vamos criar um  roteiro de um podcast de finanças domésticas, focado em organização financeira familiar cujo o nome é "O Manual da Moedinha Nº 1" "Subtítulo: Os segredos do Tio Patinhas para controlar suas finanças." e tem foco em organização financeira familiar ,  com o público alvo de iniciantes em orçamento doméstico o formato do roteiro deve ser
 [INTRODUÇÃO]
 [CURIOSIDADE 1]
 [CURIOSIDADE 2]

@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="./assets/cover.png"
+    src="https://github.com/Dayanneportugal/prompts-for-podcast-generate-by-ia/blob/main/PERSONAGEM%20DAYA.jpg"
     width="300"
 />
 </p>

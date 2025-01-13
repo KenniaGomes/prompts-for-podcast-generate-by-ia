@@ -71,3 +71,7 @@ Bing：
 | :----: | -------------------------------------------------------------------------------------- |
 |Personagem | crie um personagem **Descrição do Personagem da Capa do Podcast: "O Manual da Moedinha Nº 1"**    **Nome do Personagem:** *Daya Patinhas*    **Descrição Visual:**   Daya é uma jovem e animada versão feminina inspirada no estilo de Patópolis, com um toque moderno. Ela é uma pata antropomórfica, com penas brancas e bochechas coradas, que exalam carisma e energia positiva.    **Trajes e Acessórios:**   - **Chapéu de explorador financeiro:** Um chapéu semelhante ao do Tio Patinha|
 
+## ✨ Features
+
+- Conteúdo gerado via ChatGPT
+- Imagens geradas via Bing

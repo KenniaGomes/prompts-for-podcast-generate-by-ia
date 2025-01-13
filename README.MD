@@ -75,3 +75,4 @@ Bing：
 
 - Conteúdo gerado via ChatGPT
 - Imagens geradas via Bing
+- Audio editado via Capcut

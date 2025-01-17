@@ -1,60 +1,20 @@
-<p align="center">
-<img 
-    src="https://github.com/Dayanneportugal/prompts-for-podcast-generate-by-ia/blob/main/PERSONAGEM%20DAYA.jpg"
-    width="300"
-/>
-</p>
-
-<p align="center">
-<a href="https://dio.me/">
-    <img 
-        src="https://img.shields.io/badge/DIO-Code_The_Future-28DA77?logo=youtube" 
-        alt="DIO - Code The Future">
-</a>
-<a href="https://dio.me/">
-<img 
-    src="https://img.shields.io/badge/🔴_LIVE_CODE-FF5E72" 
-    alt="🔴 LIVE CODE">
-</a>
-</p>
-
-<p align="center">
-    preview do podcast
-</p>
-
-<div align="center">
-    <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
-</div>
-
-# Projeto Podcast Gerado por I.A.s
-
-
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante uma live no Youtube em parceria com a [DIO](https://dio.me)
 
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
-
-Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [Bing](https://www.midjourney.com/app/)
+- Leonardo.Ai: https://app.leonardo.ai
 - [ElevenLabs](https://beta.elevenlabs.io/)
 - [Capcut](https://www.bing.com/?FORM=GENBHP)
 
 ## ✨ Como foi feito ?
 
-- Roteiro gerado via chatgpt
-- Audio gerado pela elevenLabs
-- Bing Para gerar capas
-- Capcut para editar aúdio 
-
-## 📚 Materiais
-
-- [Link da live no Youtube](https://www.youtube.com)
-- [Notion Template](https://helpful-jump-17b.notion.site/PAS-Podcast-AI-Studio-210489e15d7a4a73b743bb159e45d06f?pvs=4)
-- [Editor de aúdio](https://www.capcut.com/editor?from_page=landing_page&__action_from=picture_V%C3%ADdeos%20profissionais%20em%20minutos,%20n%C3%A3o%20em%20horas.)
-
+- TÍTULO - Chat GPT: https://chatgpt.com
+- ROTEIRO - Chat GPT: https://chatgpt.com
+- CAPA - Leonardo.Ai: https://app.leonardo.ai
+- NARRAÇÃO - Eleven Labs: https://elevenlabs.io
+- EDIÇÃO - CapCut: https://capcut.com
 
 ## 🧠 Prompts
 
@@ -62,19 +22,39 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Você é um roteirista de podcast, e vamos criar um podcast de finanças domésticas, focado em organização financeira familiar e eu gostaria de uma ajuda sua para criar 5 sugestões de nomes criativos para um podcast de finanças domesticas feito por crianças, e que tenha algum trocadilho infantil no nome O podcast vai falar sobre dicas e novidades sobre o mundo de finanças domésticas e o que está acontecendo no mercado {REGRAS} - O nome deve ser enxuto, um nome e um subtítulo - O nome tenha algum trocadilho infantil - O nome deve conter alguma palavra forte que remeta a controle financeiro                                                     |
-|  roteiro  | Você é um roteirista de podcast, e vamos criar um  roteiro de um podcast de finanças domésticas, focado em organização financeira familiar cujo o nome é "O Manual da Moedinha Nº 1" "Subtítulo: Os segredos do Tio Patinhas para controlar suas finanças." e tem foco em organização financeira familiar ,  com o público alvo de iniciantes em orçamento doméstico o formato do roteiro deve ser [INTRODUÇÃO] [CURIOSIDADE 1] [CURIOSIDADE 2] [FINALIZAÇÃO] {REGRAS} - no bloco [INTRODUÇÃO] substitua por uma introdução iguais as introduções dos desenhos do Tio Patinhas, como se fossem escritos pelo Tio Patinhas - no bloco [CURIOSIDADE 1] substitua por uma curiosidade do Tio Patinhas - no bloco [CURIOSIDADE 2] sobre uma ferramenta para organização financeira familiar - no bloco [FINALIZAÇÃO] substitua por uma despedida cool com o final 'Eu sou Daya e esse foi o podcast dessa semana' - use termos de fácil explicação - O podcast vai ser apresentado somente por uma pessoa, chamada Daya - O podcast deve ser curto {REGRAS NEGATIVAS} - Não use muitos termos técnicos - Não ultrapasse 5 minutos de duração |
+|  título  | Você é um roteirista de podcast, e vamos criar um podcast para crianças, focado em ensinar responsabilidades básicas do dia a dia (como escovar os dentes, arrumar a cama, guardar os brinquedos...) de maneira divertida e eu gostaria de uma ajuda sua para criar 5 sugestões de nomes criativos, e que tenha algum trocadilho divertido no nome.O podcast vai falar sobre dicas divertidas com o intuito de ensinar a criançada a realizar as tarefas do dia a dia.{REGRAS}
+- O nome deve ser enxuto, um nome e um subtítulo
+- O nome tenha algum trocadilho legal com nomes de personagens conhecidos de desenhos animados, super heróis.
+- O nome deve conter algum trocadilho que remeta a ideia de estarem brincando, divertindo e ao mesmo tempo ajudando em casa.
+{REGRAS NEGATIVAS}
+- Não quero que o título contenha palavras em inglês
+- Não utilize as palavras tarefas, responsabilidade, nem qualquer derivação delas.   
 
-Bing：
+|
+|  roteiro  | Agora, vamos criar o primeiro episódio do nosso podcast. Os Guardiões da Rotina Mágina são crianças, e o podcast precisar ser totalmente narrado para crianças de 5 anos. Então os termos apresentados e as falas precisam ser condizentes com este público.O formato do roteiro deve ser:[INTRODUÇÃO][CURIOSIDADE 1][CURIOSIDADE 2][FINALIZAÇÃO]{REGRAS}
+- o tema deste episódio é sobre a importância de escovar os dentes. Crie um título criativo para o episódio com este tema, voltado aos Guardiões da Rotina Mágica.
+- no bloco [INTRODUÇÃO] substitua por uma introdução com o Super Dudu se apresentando e dizendo o tema do episódio.
+- no bloco [CURIOSIDADE 1] substitua por uma curiosidade divertida em escovar os dentes todos os dias e em todos os horários definidos pelos pais.
+- no bloco [CURIOSIDADE 2] sobre o porquê dos Guardiões precisarem manter os sempre os dentes limpos.
+- no bloco [FINALIZAÇÃO] substitua por uma despedida cool com o final 'Eu sou o Super Dudu e esse foi a Super Dica dessa semana para os nossos Guardiões da Rotina Mágica.'
+- use termos de fácil explicação, de forma divertida para crianças de 5 anos
+- O podcast vai ser apresentado somente por uma pessoa, o Super Dudu
+- O podcast deve ser curto
+{REGRAS NEGATIVAS}
+- Não use muitos termos técnicos
+- Não ultrapasse 5 minutos de duração
+|
+
+Leonardo.AI：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-|Personagem | crie um personagem **Descrição do Personagem da Capa do Podcast: "O Manual da Moedinha Nº 1"**    **Nome do Personagem:** *Daya Patinhas*    **Descrição Visual:**   Daya é uma jovem e animada versão feminina inspirada no estilo de Patópolis, com um toque moderno. Ela é uma pata antropomórfica, com penas brancas e bochechas coradas, que exalam carisma e energia positiva.    **Trajes e Acessórios:**   - **Chapéu de explorador financeiro:** Um chapéu semelhante ao do Tio Patinha|
+|Personagem | crie um personagem Super Dudu, um jovem podcaster no estilo de super-herói animado, vestindo um traje colorido e moderno de super-herói, sorrindo enquanto segura um microfone de podcast. O estilo deve evocar uma sensação vibrante e enérgica de desenho animado com detalhes hiper-realistas, iluminação cinematográfica que destaque o personagem e microfone. O plano de fundo pode ser simples, mas dinâmico, com elementos relacionados à "rotina mágica" e à diversão. O visual deve ser ultradetalhado, com iluminação e cores semelhantes a filmes de animação. Processamento de fotos ultrarrealista, com texturas detalhadas, efeitos de iluminação cinematográfica e um toque fotorrealista.|
 
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens geradas via Bing
+- Imagens geradas via Leonardo.Ai
 - Audio editado via Capcut
 
 ## 🚀 Resultados

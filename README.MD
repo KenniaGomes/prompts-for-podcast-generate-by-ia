@@ -39,4 +39,4 @@ Leonardo.AI：
 - Audio editado via Capcut
 
 ## 🚀 Resultados
-Segue o resultado do projeto: [Criando um Podcast com IAs Generativas](https://github.com/Dayanneportugal/prompts-for-podcast-generate-by-ia/blob/main/PODCAST%20O%20Manual%20da%20Moedinha%20N%C2%BA%201.mp4)
+Segue o resultado do projeto: [Criando um Podcast com IAs Generativas](https://github.com/KenniaGomes/prompts-for-podcast-generate-by-ia/blob/main/PODCAST%20SUPER%20DUDU%20E%20OS%20GUARDIOES.mp4)
